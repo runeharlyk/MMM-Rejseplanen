@@ -1,4 +1,5 @@
 # Magic Mirror Module: Rejseplanen
+A Rejseplanen modules for magic mirror
 
 ## Installation
 
