@@ -23,7 +23,7 @@ npm install
     config: {
         updateInterval:60000,
         header: "Rejseplanen",
-        routes: routes: [
+        routes: [
           {
             stopID: "<StopID>",
             destID: "<DestID>",
