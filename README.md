@@ -47,5 +47,5 @@ npm install
 
 ### stopID and destID
 The stopID and destID can be optained from the following steps:
-* Go to https://xmlopen.rejseplanen.dk/bin/rest.exe/location?input=slettebjerget&format=json
+* Go to https://xmlopen.rejseplanen.dk/bin/rest.exe/location?input=<place>&format=json
 
