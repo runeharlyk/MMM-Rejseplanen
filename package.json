@@ -1,0 +1,26 @@
+{
+  "name": "rejseplanen",
+  "version": "1.0.0",
+  "description": "A Rejseplanen modules for magic mirror",
+  "main": "rejseplanen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runeharlyk/MMM-Rejseplanen.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Rune Harlyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/runeharlyk/MMM-Rejseplanen/issues"
+  },
+  "homepage": "https://github.com/runeharlyk/MMM-Rejseplanen#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "https": "^1.0.0"
+  }
+}
