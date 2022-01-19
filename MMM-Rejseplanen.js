@@ -6,12 +6,12 @@ Module.register("MMM-Rejseplanen", {
         header: "Rejseplanen",
         routes: [
             {
-                stopID: 6716,
-                from: "Hillerød St.",
+                stopID: "008600683",
+                destID: "008600683",
             },
             {
-                stopID: 6716,
-                distination: "Hillerød St.",
+                stopID: "008600683",
+                destID: "008600683",
             }
         ]
     },
