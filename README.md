@@ -56,7 +56,7 @@ The stopID and destID can be optained from the following steps:
 
 ### The MIT License (MIT)
 
-Copyright © 2016 Joseph Bethge
+Copyright © 2022 Rune Harlyk
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
