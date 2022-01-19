@@ -19,7 +19,7 @@ npm install
 - (2) Add the module to your `config/config.js` file.
 ```js
 {
-    module: 'Rejseplanen',
+    module: 'MMM-Rejseplanen',
     position: 'bottom_left',
     config: {
         updateInterval:60000,
