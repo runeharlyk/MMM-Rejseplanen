@@ -1,4 +1,4 @@
-Module.register("rejseplanen", {
+Module.register("MMM-Rejseplanen", {
     routes: [],
     
     defaults: {
